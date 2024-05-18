@@ -1,0 +1,1 @@
+catName.innerHTML = "my cat name is nemo"
